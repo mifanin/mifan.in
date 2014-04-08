@@ -1,0 +1,533 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"addevent",
+				"addEventListener"
+			],
+			[
+				"c",
+				"clearInterval();"
+			],
+			[
+				"reqHeader",
+				"reqHeaderStr"
+			],
+			[
+				"reqHea",
+				"reqHeaderStr"
+			],
+			[
+				"modif",
+				"modify_since"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"selected_items":
+		[
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssm",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ssjavas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssjava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ssshell",
+				"Set Syntax: Shell Script (Bash)"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/fei.zheng/Desktop/yohobuy追踪.md",
+		"/C/Users/fei.zheng/Desktop/check_http/routes/index.js",
+		"/C/Users/fei.zheng/Desktop/check_http/views/edit.ejs",
+		"/C/Users/fei.zheng/Desktop/myblog/views/index.ejs",
+		"/C/Users/fei.zheng/Desktop/check_http/views/index.ejs",
+		"/C/Users/fei.zheng/Desktop/js_project/Gruntfile.js",
+		"/C/Users/fei.zheng/Desktop/js_project/src/sizzle.js",
+		"/E/work/20130812/MutidownloadCenter/pom.xml",
+		"/E/work/20130812/MutiDownloader_Tmp/src/main/resources/config.properties",
+		"/E/work/20130812/MutiDownloader_Tmp/src/main/java/com/agrantsem/datacollector/downloader/handler/FtpDownloadHandler.java",
+		"/E/work/20130812/MutiDownloader_Tmp/src/main/java/com/agrantsem/datacollector/downloader/config/DownloadConfigManager.java",
+		"/C/Users/fei.zheng/Desktop/check_http/views/marked.ejs",
+		"/C/Users/fei.zheng/Desktop/有货网AG代码.txt.dump",
+		"/C/Users/fei.zheng/Desktop/check_http/md/index.js",
+		"/C/Users/fei.zheng/Desktop/jQueryhtml5文件上传控件.md",
+		"/C/Users/fei.zheng/Desktop/mifan.in/views/index.ejs",
+		"/C/Users/fei.zheng/Desktop/js_project/src/agtrack-src.js",
+		"/C/Users/fei.zheng/Desktop/check_http/app.js",
+		"/C/Users/fei.zheng/Desktop/ip.txt.dump",
+		"/C/Users/fei.zheng/Desktop/ip.txt",
+		"/C/Users/fei.zheng/Desktop/exif.txt",
+		"/C/Users/fei.zheng/Desktop/agrant.js",
+		"/C/Users/fei.zheng/Desktop/p.js",
+		"/C/Users/fei.zheng/Documents/digBidder_2014-03-20-14.log.gz.md5",
+		"/C/Users/fei.zheng/Desktop/ins.sh",
+		"/C/Users/fei.zheng/Desktop/check_http/node_modules/node-phantom/bridge.js",
+		"/C/Users/fei.zheng/AppData/Local/Temp/Temp1_harviewer-2.0-15.zip/preview.php",
+		"/C/Users/fei.zheng/Desktop/ag_track-0.1.0.js",
+		"/C/Users/fei.zheng/Desktop/harviewer-2.0-15/preview.php",
+		"/C/Users/fei.zheng/Desktop/check_http/node_modules/node-phantom/node-phantom.js",
+		"/C/Users/fei.zheng/.m2/settings.xml",
+		"/C/Users/fei.zheng/Desktop/sniff.js",
+		"/C/Users/fei.zheng/Desktop/有货网AG代码.txt",
+		"/E/work/20130812/DataMonitor/pom.xml",
+		"/E/work/20130812/DownloadConfigCenter/pom.xml",
+		"/E/work/20130812/MutidownloadCenter/src/main/resources/app.properties",
+		"/E/work/20130812/MutiDownloader_Tmp/src/main/resources/download.xml",
+		"/E/work/20130812/MutiDownloader/src/main/java/com/agrantsem/datacollector/downloader/config/DownloadConfigManager.java",
+		"/E/work/20130812/MutiDownloader/src/main/resources/download.xml",
+		"/E/work/20130812/TrackingHdfsHourlyProcessor/target/hdfs_hourly-1.0.0-bin/hdfs_hourly-1.0.0/conf/agdb.xml",
+		"/C/Users/fei.zheng/Desktop/config.properties",
+		"/C/Users/fei.zheng/Desktop/check_http/md/AG追踪（新版）.md",
+		"/C/Users/fei.zheng/Desktop/check_http/md/AG追踪（旧版）.md",
+		"/C/Users/fei.zheng/AppData/Local/Temp/7zO6CF5.tmp/zippo5.txt",
+		"/C/Users/fei.zheng/Desktop/check_http/md/JS分析代码.md",
+		"/C/Users/fei.zheng/Desktop/check_http/public/stylesheets/github.css",
+		"/C/Users/fei.zheng/Desktop/JS分析代码.md",
+		"/C/Users/fei.zheng/Desktop/check_http/abc.js",
+		"/C/Users/fei.zheng/Desktop/check_http/module/phantomjs/index.js",
+		"/C/Users/fei.zheng/Desktop/check_http/routes/user.js",
+		"/C/Users/fei.zheng/Desktop/check_http/module/socketio/index.js",
+		"/C/Users/fei.zheng/AppData/Roaming/npm/node_modules/markdown/lib/markdown.js",
+		"/C/Users/fei.zheng/Desktop/check_http/views/test.ejs",
+		"/C/Users/fei.zheng/AppData/Roaming/npm/node_modules/markdown/lib/index.js",
+		"/C/Users/fei.zheng/Desktop/check_http/public/javascripts/test.js",
+		"/E/work/mvnproject/AdxWebServiceClient/pom.xml",
+		"/E/tracking.log",
+		"/C/Users/fei.zheng/Desktop/cid域名对应关系.txt",
+		"/C/Users/fei.zheng/Desktop/cid",
+		"/C/Users/fei.zheng/Desktop/check_http/public/javascripts/agtrack.js",
+		"/C/Users/fei.zheng/Desktop/js_project/dist/agtrack.min.js",
+		"/C/Users/fei.zheng/Desktop/js_project/dist/agtrack.min.map",
+		"/E/work/mvnproject/AdxWebServiceClient/target/test-classes/config.properties",
+		"/C/Users/fei.zheng/Desktop/SetTest.java",
+		"/C/Users/fei.zheng/Desktop/diancan.com.md",
+		"/C/Users/fei.zheng/Desktop/diancan.com",
+		"/C/Users/fei.zheng/Desktop/abc/autoproxy-gfwlist-read-only/validateChecksum.pl",
+		"/C/Users/fei.zheng/Desktop/abc/autoproxy-gfwlist-read-only/gfwlist.txt",
+		"/C/Users/fei.zheng/Desktop/abc/autoproxy-gfwlist-read-only/sendGFWList.sh",
+		"/C/Users/fei.zheng/Desktop/abc/autoproxy-gfwlist-read-only/checkRules.py",
+		"/C/Users/fei.zheng/Desktop/js_project/dist/agtrack.js",
+		"/C/Users/fei.zheng/Desktop/agtrack/package.json",
+		"/C/Users/fei.zheng/AppData/Local/Temp/7zOFCD5.tmp/config.properties",
+		"/C/Users/fei.zheng/Desktop/check_http/public/sizzle.js",
+		"/C/Users/fei.zheng/AppData/Roaming/Foxmail7/Temp-6088/cid_domain1.txt",
+		"/C/Users/fei.zheng/Desktop/sizzle.js",
+		"//10.1.1.110/publish/20140317--郑飞--TrackingJsBugfix/agtrack.js",
+		"/C/Users/fei.zheng/Desktop/a.har",
+		"/C/Users/fei.zheng/Desktop/test.py",
+		"/C/Users/fei.zheng/Desktop/result.txt",
+		"/C/Users/fei.zheng/Desktop/a.txt",
+		"/C/Users/fei.zheng/Desktop/a.txt.dump",
+		"/C/Users/fei.zheng/Downloads/SearchEngineConfig.xml",
+		"/C/Users/fei.zheng/Desktop/harviewer-2.0-15/scripts/harViewer.js",
+		"/C/Users/fei.zheng/Desktop/harviewer-2.0-15/scripts/harPreview.js",
+		"/C/Users/fei.zheng/AppData/Local/Temp/Temp1_harviewer-2.0-15.zip/index.php",
+		"/C/Users/fei.zheng/Desktop/agtrack/src/agtrack.js",
+		"/C/Users/fei.zheng/Desktop/agtrack.js",
+		"/C/Users/fei.zheng/Desktop/rong.txt",
+		"/C/Users/fei.zheng/Desktop/webtest/app.js",
+		"/C/Users/fei.zheng/Desktop/ph.js",
+		"/E/work/nginx_work/openresty/nginx.conf",
+		"/C/Users/fei.zheng/Desktop/gm.js",
+		"/C/Users/fei.zheng/webtest/module/exec.js",
+		"/C/Users/fei.zheng/webtest/views/index.ejs",
+		"/C/Users/fei.zheng/webtest/routes/index.js",
+		"/C/Users/fei.zheng/Desktop/tracking_rev_event.txt",
+		"/C/Users/fei.zheng/Downloads/test.js",
+		"/C/Users/fei.zheng/webtest/public/static/agtrack.html",
+		"/C/Users/fei.zheng/webtest/public/static/agtrack.js",
+		"/C/Users/fei.zheng/Desktop/nginx.conf",
+		"//10.1.1.110/publish/20140314--郑飞--TrackingJs整合/agtrack.js",
+		"/C/Users/fei.zheng/Desktop/analytics.js",
+		"/C/Users/fei.zheng/Desktop/agtrack/Gruntfile.js",
+		"/C/Users/fei.zheng/Desktop/agtrack/dist/agtrack.min.js",
+		"/E/work/mvn/pom.xml",
+		"/C/Users/fei.zheng/Desktop/1寸照片排版、生成",
+		"/C/Users/fei.zheng/webtest/public/static/test.html",
+		"/C/Users/fei.zheng/Downloads/下载",
+		"/C/Users/fei.zheng/Desktop/jquery-sizzle-1649990/Gruntfile.js",
+		"/C/Users/fei.zheng/Documents/Tencent Files/272749283/FileRecv/新建文本文档.txt.dump",
+		"/C/Users/fei.zheng/Documents/Tencent Files/272749283/FileRecv/新建文本文档.txt",
+		"/C/Users/fei.zheng/Documents/Tencent Files/272749283/FileRecv/TQ.html",
+		"/C/Users/fei.zheng/Desktop/js_project/src/test.js",
+		"/C/Users/fei.zheng/Desktop/js_project/package.json",
+		"/C/Users/fei.zheng/Desktop/jquery-sizzle-1649990/package.json",
+		"/C/Users/fei.zheng/Desktop/js_project/dist/built.js",
+		"/C/Users/fei.zheng/Desktop/jquery-sizzle-1649990/src/sizzle.js",
+		"/C/Users/fei.zheng/Desktop/jquery-sizzle-1649990/tasks/commit.js",
+		"/C/Users/fei.zheng/Desktop/jquery-sizzle-1649990/dist/sizzle.min.js",
+		"/C/Users/fei.zheng/Desktop/jquery-sizzle-1649990/src/.jshintrc",
+		"/C/Users/fei.zheng/Downloads/nginx.conf",
+		"/C/Users/fei.zheng/webtest/app.js",
+		"/C/Users/fei.zheng/Desktop/weather_code",
+		"/E/srv/websites/tracking/log/TrackingTT_",
+		"/C/Users/fei.zheng/Desktop/test.html",
+		"/C/Users/fei.zheng/AppData/Roaming/Foxmail7/Temp-6592/ss",
+		"/C/Users/fei.zheng/Desktop/agdb.xml"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"word",
+			"wd",
+			"word",
+			"datatimeout",
+			"datatime",
+			"1984",
+			"\\n",
+			"<%",
+			"fs",
+			"RD_COOKIE_KEY",
+			"CM_COOKIE_KEY",
+			"cm_cookie_key",
+			"commUri",
+			"display",
+			"require",
+			"callback",
+			".tv",
+			".me",
+			".hk",
+			"[].slice.apply(arguments)",
+			"arguments)",
+			"argument)",
+			"arguments",
+			"\\{",
+			"{",
+			"sizzle",
+			"close",
+			"check url",
+			"has",
+			"try",
+			"\\\\\\|",
+			"\\\\|",
+			"\\|",
+			"\\n",
+			"com.cn",
+			"tmall",
+			"tmall.com",
+			"\\t",
+			"','",
+			"\\n",
+			".*taobao.com.*|.*baidu.com.*",
+			"\\n",
+			" \\t *$",
+			" *$",
+			"^ ",
+			"\\t$|^\\t",
+			"\\|",
+			"|",
+			"agrantsem.com/",
+			"agrantsem.com",
+			"host",
+			"kiVXAvI6tyTk82ZC",
+			"atspah",
+			"atsev",
+			"\\|~\\|",
+			"agrantsem",
+			"agrant",
+			"window.",
+			"compile",
+			"matcherFromTokens",
+			"addCombinator",
+			"get_rdCookie",
+			"ISO",
+			"send",
+			"put",
+			"map",
+			"\\n",
+			" \\|.*",
+			"^\\|[- 0-9|:]+10 \\| ",
+			"atstr",
+			"\\n",
+			"\\n\\n",
+			"[ ]*",
+			"[0-9]+",
+			"(?=(Sent = |Received = |Lost = ))[0-9]*",
+			"(?<=(Sent = |Received = |Lost = ))[0-9]*",
+			"(?=(Sent = |Received = |Lost = ))[0-9]*",
+			"ckey",
+			"ck",
+			"\\n\\n",
+			"\\},\\{",
+			"{",
+			"\\[",
+			"[0-9]+",
+			"101280501深圳",
+			"[0-9]+",
+			"(?=([0-9]+))",
+			"(?<=([0-9]+))",
+			"(?<=[0-9]+)",
+			"(?=[0-9]+)",
+			"java",
+			"return",
+			",",
+			"\\n",
+			"\\|",
+			"\\n",
+			"|",
+			",",
+			"\\n",
+			"groupid",
+			"into",
+			"$",
+			"^",
+			",",
+			"^|$",
+			"\\n\\n",
+			"retry count",
+			"refer",
+			"site",
+			"$",
+			"^",
+			"$",
+			"^",
+			"chat",
+			"user",
+			"jdk",
+			"\\n",
+			"\\bin\\",
+			"com.agrantsem",
+			"localhost",
+			"defalut",
+			"\\n\\n",
+			"\\n",
+			"console.log",
+			"failed",
+			"fail",
+			"\\{yyyy\\}",
+			"{yyyy}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\\\|",
+			"[].slice.apply(arguments)[0]",
+			"\\|",
+			"\\\\|",
+			"\\|",
+			"",
+			"\\n",
+			"','",
+			" ",
+			"','",
+			"",
+			"\\t",
+			",",
+			"",
+			",",
+			"\\n",
+			"",
+			"\\n",
+			"$0\\n",
+			"$1\\n",
+			"$1",
+			"220301",
+			"[0-9]+\\n",
+			"\\n",
+			" ",
+			"",
+			"\\\\|",
+			"\\|",
+			"|",
+			",",
+			"Groups",
+			"into Contactors",
+			");",
+			"insert into (name,email,mobile,phonemail) values (",
+			"','",
+			"'",
+			"\\n",
+			");",
+			"insert into DownloadConfig (inhost,inport,outhost,outport,path,user,passwd,starttime,endtime,logtype,createtime,updatetime,filenameformat,type,pause) values (",
+			"a",
+			"",
+			"t.agrantsem.com",
+			"default",
+			"\\n",
+			"%' or trackingurl like '%",
+			" or trackingurl like '%",
+			" like '%",
+			"digSaxCM",
+			"digBaiduCM",
+			"digTanxCM",
+			"dig",
+			"quanbeijing",
+			"北京",
+			"','",
+			"",
+			"\",\"",
+			",",
+			"",
+			"','",
+			",",
+			"",
+			"\\},\\n\\{",
+			"\\n",
+			"\\|",
+			"\\\\|",
+			"\\|",
+			"|",
+			"','",
+			","
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"import urllib2,os;pf='Package Control.sublime-pack"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
