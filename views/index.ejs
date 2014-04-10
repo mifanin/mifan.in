@@ -13,15 +13,22 @@
     <script type="text/javascript" src="/javascripts/jquery-1.11.0.min.js"></script>
     <script type="text/javascript" src="/javascripts/bootstrap.min.js"></script>
     <script type="text/javascript" src="/javascripts/html5upload.js"></script>
+    <script type="text/javascript" src="/javascripts/jquery.qrcode.min.js"></script>
     
   </head>
   <body>
-    <div style="border:1px dashed grey;font-size:2rem;width:100px;height:100px;"  onfocus="javascript:;" id="upload">
-      <i class="icon-plus select"></i>
-    </div>
+      <div class="row">
+        <div style="border:1px dashed grey;font-size:2rem;" class="col-md-2"  onfocus="javascript:;" id="upload">
+          <i class="icon-plus select"></i>
+        </div>
+        <div class="visible-md visible-lg col-md-3 img-rounded" id='qrcode'></div>
+      </div>
+    
     <script type="text/javascript">
       $(function(){
         $('#upload').mutiUpload({url:'/upload'});
+
+        $('#qrcode').qrcode({width:$("#qrcode").width(),height:$("#qrcode").width(),text:window.location.href});
       });
     </script>
   </body>
