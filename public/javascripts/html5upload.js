@@ -24,6 +24,9 @@
 			throw 'upload url has not config';
 		}
 		var area=$(this);
+		if(!area || area.length===0){
+			throw 'upload element can\'t be null';
+		}
 		var clickButton=area.find('.select');
 		clickButton.css({'cursor':'pointer'});
 		var fileUploadControl=$('<input type="file" multiple="true" id="mifan_upload" name="mifan_upload">').css({display:'none'});
@@ -40,8 +43,8 @@
 					form.append('files',files[i]);
 					reader.readAsDataURL(files[i]);
 				}
+				upload(uploadUrl,form);
 			});
-			upload(uploadUrl,form);
 			fileUploadControl.click();
 		});
 		var border=area.css('border');
@@ -64,7 +67,6 @@
 			var event=e.originalEvent;
 			event.stopPropagation();
 			event.preventDefault();
-
 			var files=event.dataTransfer.files;
 			var form=new FormData();
 			for(var i in files){

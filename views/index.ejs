@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="/stylesheets/bootstrap.min.css">
     <link rel="stylesheet" href="/stylesheets/bootstrap-theme.min.css">
   	<link rel="stylesheet" href="/stylesheets/font-awesome.min.css">
+    <link rel="stylesheet" href="/stylesheets/jquery-ui/jquery-ui-1.10.0.custom.min.css">
   	<!--[if IE 7]>
   	<link rel="stylesheet" href="/stylesheets/font-awesome-ie7.min.css">
   	<![endif]-->
@@ -14,21 +15,46 @@
     <script type="text/javascript" src="/javascripts/bootstrap.min.js"></script>
     <script type="text/javascript" src="/javascripts/html5upload.js"></script>
     <script type="text/javascript" src="/javascripts/jquery.qrcode.min.js"></script>
+    <script type="text/javascript" src="/javascripts/jquery-ui-1.9.2.custom.min.js"></script>
+
     
   </head>
   <body>
       <div class="row">
-        <div style="border:1px dashed grey;font-size:2rem;" class="col-md-2"  onfocus="javascript:;" id="upload">
+        <div style="border:1px dashed grey;font-size:2rem;" class="col-md-10 col-xs-12"  onfocus="javascript:;" id="left">
           <i class="icon-plus select"></i>
+          <div class='col-md-12'>
+            <input type='text' id="tags">
+          </div>
         </div>
-        <div class="visible-md visible-lg col-md-3 img-rounded" id='qrcode'></div>
+
+        <div class="visible-md visible-lg col-md-2 alert alert-success" id='right'>
+          <div class="col-md-12" style='text-align:center;'><p><strong><i class="icon-qrcode"></i>&nbsp;&nbsp;本网页二维码</strong></p></div>
+          <div class="col-md-12" style="padding:0px;margin:0px;" id='qrcode'></div>
+        </div>
+         <% if(weichat){%>
+          <div class='col-xs-12 alert alert-success'>
+            此区域微信可见
+          </div>
+         <% }%>
+        
       </div>
     
     <script type="text/javascript">
       $(function(){
-        $('#upload').mutiUpload({url:'/upload'});
+        var availableTags = ['中文','中国','我爱你','中间'];
+        $("#tags").autocomplete({
+            source: availableTags
+        });
 
-        $('#qrcode').qrcode({width:$("#qrcode").width(),height:$("#qrcode").width(),text:window.location.href});
+        try{
+          $('#upload').mutiUpload({url:'/upload'});
+        }catch(e){
+          if(console){
+            console.log("err:"+e);
+          }
+        }
+        $('#qrcode').qrcode(window.location.href).children().addClass('col-md-12').css({margin:0,padding:0});
       });
     </script>
   </body>
