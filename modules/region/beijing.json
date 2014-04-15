@@ -1,0 +1,1726 @@
+[
+    {
+        "parent": {
+            "name": "chaoyang",
+            "value": "朝阳"
+        },
+        "children": [
+            {
+                "name": "anhuili",
+                "value": "安慧桥"
+            },
+            {
+                "name": "anzhenqiao",
+                "value": "安贞"
+            },
+            {
+                "name": "aoyuncun",
+                "value": "奥运村"
+            },
+            {
+                "name": "baiziwan",
+                "value": "百子湾"
+            },
+            {
+                "name": "dblz",
+                "value": "八里庄"
+            },
+            {
+                "name": "beishatan",
+                "value": "北沙滩"
+            },
+            {
+                "name": "bjbeiyuan",
+                "value": "北苑"
+            },
+            {
+                "name": "cbd",
+                "value": "CBD "
+            },
+            {
+                "name": "changying",
+                "value": "常营"
+            },
+            {
+                "name": "chaoqingbankuai",
+                "value": "朝青板块"
+            },
+            {
+                "name": "chaowaidajie",
+                "value": "朝外大街"
+            },
+            {
+                "name": "chaoyanggongyuan",
+                "value": "朝阳公园"
+            },
+            {
+                "name": "chaoyangzhoubian",
+                "value": "朝阳周边"
+            },
+            {
+                "name": "ciyunsi",
+                "value": "慈云寺"
+            },
+            {
+                "name": "dashanzi",
+                "value": "大山子"
+            },
+            {
+                "name": "datun",
+                "value": "大屯"
+            },
+            {
+                "name": "dawanglu",
+                "value": "大望路"
+            },
+            {
+                "name": "dingfuzhuang",
+                "value": "定福庄"
+            },
+            {
+                "name": "dongba",
+                "value": "东坝"
+            },
+            {
+                "name": "dongdaqiao",
+                "value": "东大桥"
+            },
+            {
+                "name": "dougezhuang",
+                "value": "豆各庄"
+            },
+            {
+                "name": "fatou",
+                "value": "垡头"
+            },
+            {
+                "name": "ganluyuan",
+                "value": "甘露园"
+            },
+            {
+                "name": "gaobeidianbj",
+                "value": "高碑店"
+            },
+            {
+                "name": "gongti",
+                "value": "工体"
+            },
+            {
+                "name": "guangqumen",
+                "value": "广渠门"
+            },
+            {
+                "name": "guanzhuang",
+                "value": "管庄"
+            },
+            {
+                "name": "guomao",
+                "value": "国贸"
+            },
+            {
+                "name": "guozhan",
+                "value": "国展"
+            },
+            {
+                "name": "hepingjie",
+                "value": "和平街"
+            },
+            {
+                "name": "hongmiao",
+                "value": "红庙"
+            },
+            {
+                "name": "huajiadi",
+                "value": "花家地"
+            },
+            {
+                "name": "huanlegu",
+                "value": "欢乐谷"
+            },
+            {
+                "name": "bjhuaweiqiao",
+                "value": "华威桥"
+            },
+            {
+                "name": "huixl",
+                "value": "惠新里"
+            },
+            {
+                "name": "hxxj",
+                "value": "惠新西街"
+            },
+            {
+                "name": "hujialou",
+                "value": "呼家楼"
+            },
+            {
+                "name": "jiangtailu",
+                "value": "将台路"
+            },
+            {
+                "name": "jianwaidajie",
+                "value": "建外大街"
+            },
+            {
+                "name": "bjjianxq",
+                "value": "健翔桥"
+            },
+            {
+                "name": "jingguangqiao",
+                "value": "京广桥"
+            },
+            {
+                "name": "jinsong",
+                "value": "劲松"
+            },
+            {
+                "name": "jiuxianqiao",
+                "value": "酒仙桥"
+            },
+            {
+                "name": "laiguangying",
+                "value": "来广营"
+            },
+            {
+                "name": "liufang",
+                "value": "柳芳"
+            },
+            {
+                "name": "maizidian",
+                "value": "麦子店"
+            },
+            {
+                "name": "meiticun",
+                "value": "媒体村"
+            },
+            {
+                "name": "nanmofang",
+                "value": "南磨房"
+            },
+            {
+                "name": "panjiayuan",
+                "value": "潘家园"
+            },
+            {
+                "name": "sanlitun",
+                "value": "三里屯"
+            },
+            {
+                "name": "sanyuanqiao",
+                "value": "三元桥"
+            },
+            {
+                "name": "shaoyaoju",
+                "value": "芍药居"
+            },
+            {
+                "name": "shibalidian",
+                "value": "十八里店"
+            },
+            {
+                "name": "shifoying",
+                "value": "石佛营"
+            },
+            {
+                "name": "shilibao",
+                "value": "十里堡"
+            },
+            {
+                "name": "shilihe",
+                "value": "十里河"
+            },
+            {
+                "name": "shoudujichang",
+                "value": "首都机场"
+            },
+            {
+                "name": "shuangjing",
+                "value": "双井"
+            },
+            {
+                "name": "bjshuangqiao",
+                "value": "双桥"
+            },
+            {
+                "name": "shuiduizi",
+                "value": "水碓子"
+            },
+            {
+                "name": "bjsihui",
+                "value": "四惠"
+            },
+            {
+                "name": "bjsyuli",
+                "value": "松榆里"
+            },
+            {
+                "name": "bjsunhe",
+                "value": "孙河"
+            },
+            {
+                "name": "taiyanggong",
+                "value": "太阳宫"
+            },
+            {
+                "name": "tianshuiyuan",
+                "value": "甜水园"
+            },
+            {
+                "name": "tuanjiehu",
+                "value": "团结湖"
+            },
+            {
+                "name": "wangjing",
+                "value": "望京"
+            },
+            {
+                "name": "xiaoguan",
+                "value": "小关"
+            },
+            {
+                "name": "xiaohongmen",
+                "value": "小红门"
+            },
+            {
+                "name": "xiaoying",
+                "value": "小营"
+            },
+            {
+                "name": "xibahe",
+                "value": "西坝河"
+            },
+            {
+                "name": "yansha",
+                "value": "燕莎"
+            },
+            {
+                "name": "yaojiayuan",
+                "value": "姚家园"
+            },
+            {
+                "name": "yayuncun",
+                "value": "亚运村"
+            },
+            {
+                "name": "zuojiazhuang",
+                "value": "左家庄"
+            }
+        ]
+    },
+    {
+        "parent": {
+            "name": "haidian",
+            "value": "海淀"
+        },
+        "children": [
+            {
+                "name": "annz",
+                "value": "安宁庄"
+            },
+            {
+                "name": "baishiqiao",
+                "value": "白石桥"
+            },
+            {
+                "name": "beihangbj",
+                "value": "北航"
+            },
+            {
+                "name": "beijingdaxue",
+                "value": "北京大学"
+            },
+            {
+                "name": "beitaipingzhuang",
+                "value": "北太平庄"
+            },
+            {
+                "name": "beiwalu",
+                "value": "北洼路"
+            },
+            {
+                "name": "changwa",
+                "value": "厂洼"
+            },
+            {
+                "name": "chedg",
+                "value": "车道沟"
+            },
+            {
+                "name": "dazhongsi",
+                "value": "大钟寺"
+            },
+            {
+                "name": "dinghuisi",
+                "value": "定慧寺"
+            },
+            {
+                "name": "bjenjili",
+                "value": "恩济里"
+            },
+            {
+                "name": "erlizhuang",
+                "value": "二里庄"
+            },
+            {
+                "name": "ganjiakou",
+                "value": "甘家口"
+            },
+            {
+                "name": "gongzhufen",
+                "value": "公主坟"
+            },
+            {
+                "name": "haidianzhoubian",
+                "value": "海淀周边"
+            },
+            {
+                "name": "hangtianqiao",
+                "value": "航天桥"
+            },
+            {
+                "name": "huayuanqiao",
+                "value": "花园桥"
+            },
+            {
+                "name": "bjjiaoda",
+                "value": "交通大学"
+            },
+            {
+                "name": "jimenqiao",
+                "value": "蓟门桥"
+            },
+            {
+                "name": "bjjinhegou",
+                "value": "金沟河"
+            },
+            {
+                "name": "junbo",
+                "value": "军博"
+            },
+            {
+                "name": "bjlxqiao",
+                "value": "联想桥"
+            },
+            {
+                "name": "malianwa",
+                "value": "马连洼"
+            },
+            {
+                "name": "minggq",
+                "value": "明光桥"
+            },
+            {
+                "name": "mudanyuan",
+                "value": "牡丹园"
+            },
+            {
+                "name": "qinghe",
+                "value": "清河"
+            },
+            {
+                "name": "qinghuadaxue",
+                "value": "清华大学"
+            },
+            {
+                "name": "renmindaxue",
+                "value": "人民大学"
+            },
+            {
+                "name": "shangdi",
+                "value": "上地"
+            },
+            {
+                "name": "shijicheng",
+                "value": "世纪城"
+            },
+            {
+                "name": "shuangyushu",
+                "value": "双榆树"
+            },
+            {
+                "name": "sijiqinghd",
+                "value": "四季青"
+            },
+            {
+                "name": "suzhoujie",
+                "value": "苏州街"
+            },
+            {
+                "name": "suzhouqiao",
+                "value": "苏州桥"
+            },
+            {
+                "name": "tiancunlu",
+                "value": "田村"
+            },
+            {
+                "name": "wanliubj",
+                "value": "万柳"
+            },
+            {
+                "name": "wanliu",
+                "value": "万泉河"
+            },
+            {
+                "name": "wanshouluhd",
+                "value": "万寿路"
+            },
+            {
+                "name": "wanss",
+                "value": "万寿寺"
+            },
+            {
+                "name": "baiyilu",
+                "value": "魏公村"
+            },
+            {
+                "name": "wudaokou",
+                "value": "五道口"
+            },
+            {
+                "name": "wukesong",
+                "value": "五棵松"
+            },
+            {
+                "name": "bjwuluju",
+                "value": "五路居"
+            },
+            {
+                "name": "xiangshanhd",
+                "value": "香山"
+            },
+            {
+                "name": "balizhuang",
+                "value": "西八里庄"
+            },
+            {
+                "name": "xibeiwang",
+                "value": "西北旺"
+            },
+            {
+                "name": "xierqi",
+                "value": "西二旗"
+            },
+            {
+                "name": "xisanqi",
+                "value": "西三旗"
+            },
+            {
+                "name": "xs",
+                "value": "西山"
+            },
+            {
+                "name": "xiyuanbj",
+                "value": "西苑"
+            },
+            {
+                "name": "xueyuanlu",
+                "value": "学院路"
+            },
+            {
+                "name": "yongdinglu",
+                "value": "永定路"
+            },
+            {
+                "name": "bjyql",
+                "value": "玉泉路"
+            },
+            {
+                "name": "zhaojunmiao",
+                "value": "皂君庙"
+            },
+            {
+                "name": "zengguanglu",
+                "value": "增光路"
+            },
+            {
+                "name": "zhichunlu",
+                "value": "知春路"
+            },
+            {
+                "name": "zhongguancun",
+                "value": "中关村"
+            },
+            {
+                "name": "zizhuqiao",
+                "value": "紫竹桥"
+            }
+        ]
+    },
+    {
+        "parent": {
+            "name": "dongcheng",
+            "value": "东城"
+        },
+        "children": [
+            {
+                "name": "andingmen",
+                "value": "安定门"
+            },
+            {
+                "name": "beijingzhan",
+                "value": "北京站"
+            },
+            {
+                "name": "beixinqiao",
+                "value": "北新桥"
+            },
+            {
+                "name": "chaoyangmen",
+                "value": "朝阳门"
+            },
+            {
+                "name": "dengshikou",
+                "value": "灯市口"
+            },
+            {
+                "name": "dongchengzhoubian",
+                "value": "东城周边"
+            },
+            {
+                "name": "dongsan",
+                "value": "东单"
+            },
+            {
+                "name": "dongsi",
+                "value": "东四"
+            },
+            {
+                "name": "dongsishitiao",
+                "value": "东四十条"
+            },
+            {
+                "name": "dongzhimen",
+                "value": "东直门"
+            },
+            {
+                "name": "dongzhimenwai",
+                "value": "东直门外"
+            },
+            {
+                "name": "haiyuncang",
+                "value": "海运仓"
+            },
+            {
+                "name": "hepingli",
+                "value": "和平里"
+            },
+            {
+                "name": "jianguomen",
+                "value": "建国门"
+            },
+            {
+                "name": "jiaodaokou",
+                "value": "交道口"
+            },
+            {
+                "name": "jingshan",
+                "value": "景山"
+            },
+            {
+                "name": "shatan",
+                "value": "沙滩 "
+            },
+            {
+                "name": "wangfujing",
+                "value": "王府井"
+            },
+            {
+                "name": "yonghegong",
+                "value": "雍和宫"
+            }
+        ]
+    },
+    {
+        "parent": {
+            "name": "xicheng",
+            "value": "西城"
+        },
+        "children": [
+            {
+                "name": "baiwanzhuang",
+                "value": "百万庄"
+            },
+            {
+                "name": "chegongzhuang",
+                "value": "车公庄"
+            },
+            {
+                "name": "deshengmen",
+                "value": "德胜门"
+            },
+            {
+                "name": "dianmen",
+                "value": "地安门"
+            },
+            {
+                "name": "fuchengmen",
+                "value": "阜成门"
+            },
+            {
+                "name": "fuxingmen",
+                "value": "复兴门"
+            },
+            {
+                "name": "guanyuan",
+                "value": "官园"
+            },
+            {
+                "name": "shishahai",
+                "value": "鼓楼"
+            },
+            {
+                "name": "jierongjie",
+                "value": "金融街"
+            },
+            {
+                "name": "jishuitan",
+                "value": "积水潭"
+            },
+            {
+                "name": "liupukang",
+                "value": "六铺炕"
+            },
+            {
+                "name": "madian",
+                "value": "马甸"
+            },
+            {
+                "name": "muxidi",
+                "value": "木樨地"
+            },
+            {
+                "name": "baiyunlu",
+                "value": "南礼士路"
+            },
+            {
+                "name": "sanlihe",
+                "value": "三里河"
+            },
+            {
+                "name": "shichahai",
+                "value": "什刹海"
+            },
+            {
+                "name": "xiaoxitian",
+                "value": "小西天"
+            },
+            {
+                "name": "xibianmen",
+                "value": "西便门"
+            },
+            {
+                "name": "xichengzhoubian",
+                "value": "西城周边"
+            },
+            {
+                "name": "xidan",
+                "value": "西单"
+            },
+            {
+                "name": "xinjie",
+                "value": "新街口"
+            },
+            {
+                "name": "xisi",
+                "value": "西四"
+            },
+            {
+                "name": "xizhimen",
+                "value": "西直门"
+            },
+            {
+                "name": "yuetan",
+                "value": "月坛"
+            },
+            {
+                "name": "zhanlanlu",
+                "value": "展览路"
+            },
+            {
+                "name": "zhenwumiao",
+                "value": "真武庙"
+            }
+        ]
+    },
+    {
+        "parent": {
+            "name": "chongwen",
+            "value": "崇文"
+        },
+        "children": [
+            {
+                "name": "chongwenmen",
+                "value": "崇文门"
+            },
+            {
+                "name": "chongwenzhoubian",
+                "value": "崇文周边"
+            },
+            {
+                "name": "ciqikou",
+                "value": "磁器口"
+            },
+            {
+                "name": "donghuashi",
+                "value": "东花市"
+            },
+            {
+                "name": "fahuasi",
+                "value": "法华寺"
+            },
+            {
+                "name": "guangminglou",
+                "value": "光明楼"
+            },
+            {
+                "name": "guangqumennei",
+                "value": "广渠门"
+            },
+            {
+                "name": "longtanhu",
+                "value": "龙潭湖"
+            },
+            {
+                "name": "qianmen",
+                "value": "前门"
+            },
+            {
+                "name": "tiantan",
+                "value": "天坛"
+            },
+            {
+                "name": "tiyuguanlu",
+                "value": "体育馆路"
+            },
+            {
+                "name": "xinshijie",
+                "value": "新世界"
+            },
+            {
+                "name": "yongdingmen",
+                "value": "永定门"
+            }
+        ]
+    },
+    {
+        "parent": {
+            "name": "xuanwu",
+            "value": "宣武"
+        },
+        "children": [
+            {
+                "name": "baiguanglu",
+                "value": "白广路"
+            },
+            {
+                "name": "baizhifang",
+                "value": "白纸坊"
+            },
+            {
+                "name": "caishikou",
+                "value": "菜市口"
+            },
+            {
+                "name": "changchunjie",
+                "value": "长椿街"
+            },
+            {
+                "name": "chunshujiedao",
+                "value": "椿树街道"
+            },
+            {
+                "name": "daguanyuan",
+                "value": "大观园"
+            },
+            {
+                "name": "dazhalan",
+                "value": "大栅栏"
+            },
+            {
+                "name": "guanganmennei",
+                "value": "广安门内"
+            },
+            {
+                "name": "guanganmenwai",
+                "value": "广安门外"
+            },
+            {
+                "name": "hepingmen",
+                "value": "和平门"
+            },
+            {
+                "name": "honglian",
+                "value": "红莲"
+            },
+            {
+                "name": "hufangqiao",
+                "value": "虎坊桥"
+            },
+            {
+                "name": "maliandao",
+                "value": "马连道"
+            },
+            {
+                "name": "nancaiyuan",
+                "value": "南菜园"
+            },
+            {
+                "name": "niujie",
+                "value": "牛街"
+            },
+            {
+                "name": "taoranting",
+                "value": "陶然亭"
+            },
+            {
+                "name": "tianningsi",
+                "value": "天宁寺"
+            },
+            {
+                "name": "bjtianqiao",
+                "value": "天桥"
+            },
+            {
+                "name": "xuanwumen",
+                "value": "宣武门"
+            },
+            {
+                "name": "xuanwuzhoubian",
+                "value": "宣武周边"
+            },
+            {
+                "name": "zhushikou",
+                "value": "珠市口"
+            }
+        ]
+    },
+    {
+        "parent": {
+            "name": "fengtai",
+            "value": "丰台"
+        },
+        "children": [
+            {
+                "name": "beidadi",
+                "value": "北大地"
+            },
+            {
+                "name": "caihuying",
+                "value": "菜户营"
+            },
+            {
+                "name": "caoqiao",
+                "value": "草桥"
+            },
+            {
+                "name": "changxindian",
+                "value": "长辛店"
+            },
+            {
+                "name": "chengshousi",
+                "value": "成寿寺"
+            },
+            {
+                "name": "dahongmen",
+                "value": "大红门"
+            },
+            {
+                "name": "donggaodi",
+                "value": "东高地"
+            },
+            {
+                "name": "dongtiejiangying",
+                "value": "东铁匠营"
+            },
+            {
+                "name": "fangzhuang",
+                "value": "方庄"
+            },
+            {
+                "name": "fengtailu",
+                "value": "丰台路"
+            },
+            {
+                "name": "fengtaitiyuguan",
+                "value": "丰台体育馆"
+            },
+            {
+                "name": "fengtaizhoubian",
+                "value": "丰台周边"
+            },
+            {
+                "name": "fengyiqiao",
+                "value": "丰益桥"
+            },
+            {
+                "name": "ftheyi",
+                "value": "和义"
+            },
+            {
+                "name": "huaxiang",
+                "value": "花乡"
+            },
+            {
+                "name": "jiaomen",
+                "value": "角门"
+            },
+            {
+                "name": "jiayuan",
+                "value": "嘉园"
+            },
+            {
+                "name": "bjkdq",
+                "value": "看丹桥"
+            },
+            {
+                "name": "kejiyuanqu",
+                "value": "科技园区"
+            },
+            {
+                "name": "lianhuachi",
+                "value": "莲花池"
+            },
+            {
+                "name": "liujiayao",
+                "value": "刘家窑"
+            },
+            {
+                "name": "liuliqiao",
+                "value": "六里桥"
+            },
+            {
+                "name": "lizeqiao",
+                "value": "丽泽桥"
+            },
+            {
+                "name": "lugouqiao",
+                "value": "卢沟桥"
+            },
+            {
+                "name": "majiabao",
+                "value": "马家堡"
+            },
+            {
+                "name": "muxiyuan",
+                "value": "木樨园"
+            },
+            {
+                "name": "nanyuan",
+                "value": "南苑"
+            },
+            {
+                "name": "puhuangyu",
+                "value": "蒲黄榆"
+            },
+            {
+                "name": "qilizhuang",
+                "value": "七里庄"
+            },
+            {
+                "name": "qingta",
+                "value": "青塔"
+            },
+            {
+                "name": "shijiegongyuan",
+                "value": "世界公园"
+            },
+            {
+                "name": "songjiazhuang",
+                "value": "宋家庄"
+            },
+            {
+                "name": "taipingqiao",
+                "value": "太平桥"
+            },
+            {
+                "name": "wulidianbj",
+                "value": "五里店"
+            },
+            {
+                "name": "xikezhan",
+                "value": "西客站"
+            },
+            {
+                "name": "xiluoyuan",
+                "value": "西罗园"
+            },
+            {
+                "name": "xinfadi",
+                "value": "新发地"
+            },
+            {
+                "name": "yangqiao",
+                "value": "洋桥"
+            },
+            {
+                "name": "youanmen",
+                "value": "右安门"
+            },
+            {
+                "name": "yuegezhuang",
+                "value": "岳各庄"
+            },
+            {
+                "name": "yungang",
+                "value": "云岗"
+            },
+            {
+                "name": "yuquanying",
+                "value": "玉泉营"
+            },
+            {
+                "name": "zhaogongkou",
+                "value": "赵公口"
+            },
+            {
+                "name": "bjzbjd",
+                "value": "总部基地"
+            },
+            {
+                "name": "zuoanmen",
+                "value": "左安门"
+            }
+        ]
+    },
+    {
+        "parent": {
+            "name": "tongzhouqu",
+            "value": "通州"
+        },
+        "children": [
+            {
+                "name": "baliqiao",
+                "value": "八里桥"
+            },
+            {
+                "name": "batongqinggui",
+                "value": "八通轻轨沿线"
+            },
+            {
+                "name": "bgbeiguan",
+                "value": "北关"
+            },
+            {
+                "name": "beiguanhuandao",
+                "value": "北关环岛"
+            },
+            {
+                "name": "ciqu",
+                "value": "次渠"
+            },
+            {
+                "name": "dongguanbj",
+                "value": "东关"
+            },
+            {
+                "name": "guoyuan",
+                "value": "果园"
+            },
+            {
+                "name": "jiukeshu",
+                "value": "九棵树"
+            },
+            {
+                "name": "linheli",
+                "value": "临河里"
+            },
+            {
+                "name": "liyuan",
+                "value": "梨园"
+            },
+            {
+                "name": "luc",
+                "value": "潞城"
+            },
+            {
+                "name": "majuqiao",
+                "value": "马驹桥"
+            },
+            {
+                "name": "qiaozhuang",
+                "value": "乔庄"
+            },
+            {
+                "name": "beiyuan",
+                "value": "通州北苑"
+            },
+            {
+                "name": "tongzhouzhoubian",
+                "value": "通州周边"
+            },
+            {
+                "name": "tuqiao",
+                "value": "土桥"
+            },
+            {
+                "name": "wuyihuayuan",
+                "value": "武夷花园"
+            },
+            {
+                "name": "huoxian",
+                "value": "漷县"
+            },
+            {
+                "name": "ximen",
+                "value": "西门"
+            },
+            {
+                "name": "xinhuadajie",
+                "value": "新华大街"
+            },
+            {
+                "name": "yongshun",
+                "value": "永顺"
+            },
+            {
+                "name": "yunhedajie",
+                "value": "运河大街"
+            },
+            {
+                "name": "yuqiao",
+                "value": "玉桥"
+            },
+            {
+                "name": "zhangjiawan",
+                "value": "张家湾"
+            },
+            {
+                "name": "zhongcang",
+                "value": "中仓"
+            }
+        ]
+    },
+    {
+        "parent": {
+            "name": "shijingshan",
+            "value": "石景山"
+        },
+        "children": [
+            {
+                "name": "babaoshan",
+                "value": "八宝山"
+            },
+            {
+                "name": "badachu",
+                "value": "八大处"
+            },
+            {
+                "name": "bajiao",
+                "value": "八角"
+            },
+            {
+                "name": "guangn",
+                "value": "广宁"
+            },
+            {
+                "name": "guchenglu",
+                "value": "古城"
+            },
+            {
+                "name": "jindingjie",
+                "value": "金顶街"
+            },
+            {
+                "name": "laoshanbj",
+                "value": "老山"
+            },
+            {
+                "name": "lugu",
+                "value": "鲁谷"
+            },
+            {
+                "name": "mushikou",
+                "value": "模式口"
+            },
+            {
+                "name": "pingguoyuan",
+                "value": "苹果园"
+            },
+            {
+                "name": "shijingshanzhoubian",
+                "value": "石景山周边"
+            },
+            {
+                "name": "wulituo",
+                "value": "五里坨"
+            },
+            {
+                "name": "xishanbj",
+                "value": "西山"
+            },
+            {
+                "name": "yamenkou",
+                "value": "衙门口"
+            },
+            {
+                "name": "yangzhuang",
+                "value": "杨庄 "
+            },
+            {
+                "name": "yongle",
+                "value": "永乐"
+            },
+            {
+                "name": "yuquanlu",
+                "value": "玉泉路"
+            }
+        ]
+    },
+    {
+        "parent": {
+            "name": "fangshan",
+            "value": "房山"
+        },
+        "children": [
+            {
+                "name": "changyangbj",
+                "value": "长阳"
+            },
+            {
+                "name": "doudian",
+                "value": "窦店"
+            },
+            {
+                "name": "fangshancg",
+                "value": "房山城关"
+            },
+            {
+                "name": "fangshanzhoubian",
+                "value": "房山周边"
+            },
+            {
+                "name": "hanhecun",
+                "value": "韩村河"
+            },
+            {
+                "name": "liangxiang",
+                "value": "良乡"
+            },
+            {
+                "name": "liulihe",
+                "value": "琉璃河"
+            },
+            {
+                "name": "yancun",
+                "value": "阎村"
+            },
+            {
+                "name": "yanshanfs",
+                "value": "燕山"
+            },
+            {
+                "name": "yingfeng",
+                "value": "迎风"
+            },
+            {
+                "name": "zhoukd",
+                "value": "周口店"
+            }
+        ]
+    },
+    {
+        "parent": {
+            "name": "changping",
+            "value": "昌平"
+        },
+        "children": [
+            {
+                "name": "bjbaishan",
+                "value": "百善"
+            },
+            {
+                "name": "beiqijia",
+                "value": "北七家"
+            },
+            {
+                "name": "changpingxiancheng",
+                "value": "昌平县城"
+            },
+            {
+                "name": "changpingzhoubian",
+                "value": "昌平周边"
+            },
+            {
+                "name": "cpchengbei",
+                "value": "城北"
+            },
+            {
+                "name": "cpchengnan",
+                "value": "城南"
+            },
+            {
+                "name": "dongxiaokou",
+                "value": "东小口"
+            },
+            {
+                "name": "huilongguan",
+                "value": "回龙观"
+            },
+            {
+                "name": "huoying",
+                "value": "霍营"
+            },
+            {
+                "name": "lishuiqiao",
+                "value": "立水桥"
+            },
+            {
+                "name": "longze",
+                "value": "龙泽"
+            },
+            {
+                "name": "nankou",
+                "value": "南口"
+            },
+            {
+                "name": "bjnsz",
+                "value": "南邵镇"
+            },
+            {
+                "name": "shahe",
+                "value": "沙河"
+            },
+            {
+                "name": "tiantongyuan",
+                "value": "天通苑"
+            },
+            {
+                "name": "xiaotangshan",
+                "value": "小汤山"
+            },
+            {
+                "name": "yangfang",
+                "value": "阳坊"
+            }
+        ]
+    },
+    {
+        "parent": {
+            "name": "daxing",
+            "value": "大兴"
+        },
+        "children": [
+            {
+                "name": "binhe",
+                "value": "滨河"
+            },
+            {
+                "name": "daxingzhoubian",
+                "value": "大兴周边"
+            },
+            {
+                "name": "jingkaigaosu",
+                "value": "观音寺"
+            },
+            {
+                "name": "haizijiao",
+                "value": "海子角"
+            },
+            {
+                "name": "huangcunbj",
+                "value": "黄村"
+            },
+            {
+                "name": "jiugong",
+                "value": "旧宫 "
+            },
+            {
+                "name": "linxiaolu",
+                "value": "林校路"
+            },
+            {
+                "name": "panggz",
+                "value": "庞各庄"
+            },
+            {
+                "name": "qingy",
+                "value": "清源"
+            },
+            {
+                "name": "tongxingyuan",
+                "value": "同兴园"
+            },
+            {
+                "name": "xihongmen",
+                "value": "西红门"
+            },
+            {
+                "name": "xingfengdajie",
+                "value": "兴丰大街"
+            },
+            {
+                "name": "xinghuadajie",
+                "value": "兴华大街"
+            },
+            {
+                "name": "xingong",
+                "value": "新宫"
+            },
+            {
+                "name": "xingyedajie",
+                "value": "兴业大街"
+            },
+            {
+                "name": "yizhuang",
+                "value": "亦庄"
+            },
+            {
+                "name": "qingheyuan",
+                "value": "郁花园"
+            }
+        ]
+    },
+    {
+        "parent": {
+            "name": "shunyi",
+            "value": "顺义"
+        },
+        "children": [
+            {
+                "name": "guangming",
+                "value": "光明 "
+            },
+            {
+                "name": "houshayu",
+                "value": "后沙峪"
+            },
+            {
+                "name": "jianxin",
+                "value": "建新"
+            },
+            {
+                "name": "jichangbj",
+                "value": "机场"
+            },
+            {
+                "name": "liqiao",
+                "value": "李桥"
+            },
+            {
+                "name": "mapo",
+                "value": "马坡"
+            },
+            {
+                "name": "nancai",
+                "value": "南彩"
+            },
+            {
+                "name": "shenglibj",
+                "value": "胜利"
+            },
+            {
+                "name": "shiyuan",
+                "value": "石园"
+            },
+            {
+                "name": "shunyichengqu",
+                "value": "顺义城区"
+            },
+            {
+                "name": "shunyizhoubian",
+                "value": "顺义周边"
+            },
+            {
+                "name": "tianzhu",
+                "value": "天竺"
+            },
+            {
+                "name": "xinguozhan",
+                "value": "新国展"
+            },
+            {
+                "name": "yangzhen",
+                "value": "杨镇"
+            },
+            {
+                "name": "yulong",
+                "value": "裕龙"
+            },
+            {
+                "name": "zhongyangbsq",
+                "value": "中央别墅区"
+            }
+        ]
+    },
+    {
+        "parent": {
+            "name": "miyun",
+            "value": "密云"
+        },
+        "children": [
+            {
+                "name": "miyunchengqu",
+                "value": "密云城区"
+            },
+            {
+                "name": "bulaotun",
+                "value": "不老屯"
+            },
+            {
+                "name": "xiwengzhuang",
+                "value": "溪翁庄"
+            },
+            {
+                "name": "miyunzhoubian",
+                "value": "密云周边"
+            }
+        ]
+    },
+    {
+        "parent": {
+            "name": "huairou",
+            "value": "怀柔"
+        },
+        "children": [
+            {
+                "name": "yanqi",
+                "value": "雁栖"
+            },
+            {
+                "name": "qiaozi",
+                "value": "桥梓"
+            },
+            {
+                "name": "huairoubj",
+                "value": "怀柔城区"
+            },
+            {
+                "name": "bohaizhen",
+                "value": "渤海镇"
+            },
+            {
+                "name": "miaoc",
+                "value": "庙城"
+            },
+            {
+                "name": "huairouzhoubian",
+                "value": "怀柔周边"
+            }
+        ]
+    },
+    {
+        "parent": {
+            "name": "yanqing",
+            "value": "延庆"
+        },
+        "children": [
+            {
+                "name": "yanqingchengqu",
+                "value": "延庆城区"
+            },
+            {
+                "name": "dayushu",
+                "value": "大榆树"
+            },
+            {
+                "name": "badaling",
+                "value": "八达岭"
+            },
+            {
+                "name": "yanqingzhoubian",
+                "value": "延庆周边"
+            }
+        ]
+    },
+    {
+        "parent": {
+            "name": "pinggu",
+            "value": "平谷"
+        },
+        "children": [
+            {
+                "name": "jinhaihu",
+                "value": "金海湖"
+            },
+            {
+                "name": "binhelu",
+                "value": "滨河路"
+            },
+            {
+                "name": "pingguchengqu",
+                "value": "平谷城区"
+            },
+            {
+                "name": "xingg",
+                "value": "兴谷"
+            },
+            {
+                "name": "yuy",
+                "value": "渔阳"
+            },
+            {
+                "name": "wangxz",
+                "value": "王辛庄"
+            },
+            {
+                "name": "pingguzhoubian",
+                "value": "平谷周边"
+            }
+        ]
+    },
+    {
+        "parent": {
+            "name": "mentougou",
+            "value": "门头沟"
+        },
+        "children": [
+            {
+                "name": "bjdayu",
+                "value": "大峪"
+            },
+            {
+                "name": "dongxinfang",
+                "value": "东辛房"
+            },
+            {
+                "name": "longquan",
+                "value": "龙泉"
+            },
+            {
+                "name": "chengzijiedao",
+                "value": "城子街道 "
+            },
+            {
+                "name": "yongding",
+                "value": "永定"
+            },
+            {
+                "name": "tanzhesi",
+                "value": "潭柘寺"
+            },
+            {
+                "name": "junzhuang",
+                "value": "军庄"
+            },
+            {
+                "name": "mentougouzhoubian",
+                "value": "门头沟周边"
+            }
+        ]
+    },
+    {
+        "parent": {
+            "name": "beijingzhoubian",
+            "value": "北京周边"
+        },
+        "children": [
+            {
+                "name": "bjxianghe",
+                "value": "香河"
+            },
+            {
+                "name": "bjyanjiao",
+                "value": "燕郊"
+            },
+            {
+                "name": "bjsanhe",
+                "value": "三河"
+            },
+            {
+                "name": "bjguan",
+                "value": "固安"
+            }
+        ]
+    }
+]

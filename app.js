@@ -35,7 +35,16 @@ if ('development' == app.get('env')) {
 app.get('/', routes.index);
 app.get('/users', user.list);
 app.post('/upload',routes.upload);
+app.get('/map',routes.map);
 
-http.createServer(app).listen(80, function(){
+var server=http.createServer(app);
+server.listen(80, function(){
   console.log('Express server listening on port ' + 80);
+});
+
+var io = require('socket.io').listen(server);
+io.set('log level', 2);
+io.sockets.on('connection', function (socket) {
+	socket.emit('connected',{res:true})
+	require(__dirname+'/modules/socketio').handle(socket,io);
 });

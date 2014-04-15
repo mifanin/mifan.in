@@ -16,4 +16,8 @@ exports.index = function(req, res){
 exports.upload=function(req,res){
 	console.log(req.files);
 	res.send({result:'ok'})
+};
+
+exports.map=function(req,res){
+	res.render('maptest');
 }

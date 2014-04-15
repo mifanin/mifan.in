@@ -16,8 +16,7 @@
     <script type="text/javascript" src="/javascripts/html5upload.js"></script>
     <script type="text/javascript" src="/javascripts/jquery.qrcode.min.js"></script>
     <script type="text/javascript" src="/javascripts/jquery-ui-1.9.2.custom.min.js"></script>
-
-    
+    <script src="/socket.io/socket.io.js"></script>
   </head>
   <body>
       <div class="row">
@@ -42,10 +41,20 @@
     
     <script type="text/javascript">
       $(function(){
-        var availableTags = ['中文','中国','我爱你','中间'];
-        $("#tags").autocomplete({
-            source: availableTags
+        var socket = io.connect('http://10.1.2.66');
+
+        $('#tags').on('change',function(){
+          console.log($('#tag').val());
+          socket.emit('sug',$('#tag').val());
         });
+
+        socket.on('sug',function(data){
+          console.log(data);
+          $("#tags").autocomplete({
+            source: data
+          });
+        });
+
 
         try{
           $('#upload').mutiUpload({url:'/upload'});
