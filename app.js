@@ -22,7 +22,7 @@ app.use(express.json());
 app.use(express.urlencoded());
 app.use(express.methodOverride());
 app.use(app.router);
-app.use(require('less-middleware')({ src: path.join(__dirname, 'public') }));
+app.use(require('less-middleware')( path.join(__dirname, 'public') ));
 app.use(express.static(path.join(__dirname, 'public')));
 
 
@@ -38,8 +38,8 @@ app.post('/upload',routes.upload);
 app.get('/map',routes.map);
 
 var server=http.createServer(app);
-server.listen(80, function(){
-  console.log('Express server listening on port ' + 80);
+server.listen(8080, function(){
+  console.log('Express server listening on port ' + 8080);
 });
 
 var io = require('socket.io').listen(server);
