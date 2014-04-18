@@ -12,4 +12,4 @@ CREATE TABLE `restaurants` (
   `updatetime` datetime,
   PRIMARY KEY (`id`),
   KEY `name` (`name`)
-) ENGINE=innodb  DEFAULT CHARSET=utf8
+) ENGINE=innodb  DEFAULT CHARSET=utf8;
