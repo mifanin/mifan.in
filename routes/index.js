@@ -20,4 +20,8 @@ exports.upload=function(req,res){
 
 exports.map=function(req,res){
 	res.render('maptest');
+};
+
+exports.angular=function(req,res){
+	res.render('angular');
 }

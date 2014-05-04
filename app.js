@@ -4,6 +4,8 @@
  */
 
 var express = require('express');
+var https = require('https');
+var fs = require('fs');
 var routes = require('./routes');
 var user = require('./routes/user');
 var http = require('http');
@@ -36,13 +38,30 @@ app.get('/', routes.index);
 app.get('/users', user.list);
 app.post('/upload',routes.upload);
 app.get('/map',routes.map);
-
+app.get('/angular',routes.angular);
+/*
 var server=http.createServer(app);
-server.listen(8080, function(){
-  console.log('Express server listening on port ' + 8080);
+server.listen(80, function(){
+  console.log('Mifan server listening on port ' + 80);
 });
+*/
 
-var io = require('socket.io').listen(server);
+http.createServer(function(req,res){
+	res.writeHead (301, {'Location': 'https://'+req.headers.host+req.url});
+	res.end();
+}).listen(80);
+
+var options = {
+  key: fs.readFileSync(__dirname+'/cert/mifan.key'),
+  cert: fs.readFileSync(__dirname+'/cert/mifan.crt')
+};
+
+var httpsServer = https.createServer(options,app);
+httpsServer.listen(443, function(){
+  console.log('Mifan https server listening on port ' + 443);
+});
+//require('socket.io').listen(server);
+var io = require('socket.io').listen(httpsServer);
 io.set('log level', 2);
 io.sockets.on('connection', function (socket) {
 	socket.emit('connected',{res:true})

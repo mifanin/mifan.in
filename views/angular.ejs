@@ -1,0 +1,19 @@
+<!doctype html>
+<html ng-app='app'  ng-controller="MainCtrl">
+<head>
+	<meta charset="UTF-8">
+	<title>{{title}}</title>
+	<script type="text/javascript" src="/javascripts/angular.min.js"></script>
+	<script type="text/javascript" src="/javascripts/controller.js"></script>
+</head>
+<body>
+	<input type='text' ng-model='title'>
+
+	<ul>
+		<li ng-repeat='test in testData'>
+			name:{{test.name}}<br>
+			name:{{test.value}}
+		</li>
+	</ul>
+</body>
+</html>
