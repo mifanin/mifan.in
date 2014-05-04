@@ -1,19 +1,33 @@
 <!doctype html>
-<html ng-app='app'  ng-controller="MainCtrl">
+<html ng-app='app' ng-controller='mainController'>
 <head>
 	<meta charset="UTF-8">
-	<title>{{title}}</title>
+	<title>angular learn</title>
+    <link rel="stylesheet" href="/stylesheets/bootstrap.min.css">
+    <link rel="stylesheet" href="/stylesheets/bootstrap-theme.min.css">
 	<script type="text/javascript" src="/javascripts/angular.min.js"></script>
 	<script type="text/javascript" src="/javascripts/controller.js"></script>
+    <script type="text/javascript" src="/javascripts/realtimeController.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
 </head>
 <body>
-	<input type='text' ng-model='title'>
-
-	<ul>
-		<li ng-repeat='test in testData'>
-			name:{{test.name}}<br>
-			name:{{test.value}}
-		</li>
-	</ul>
+    <input type='text' ng-model='sug.user' ng-change='setsug(sug.user)'>
+    <input type='text' ng-model='sug.name'>
+    <input type='text' ng-model='sug.age'>
+    <table class="table">
+        <tr><td>user</td><td>name</td><td>age</td><td>flag</td></tr>
+		<tr ng-repeat='test in testData'>
+            <td>{{test.user}}</td><td>{{test.name}}</td><td>{{test.age}}</td><td>{{test.flag}}</td>
+		<tr/>
+	</table>
+    <script type="text/javascript">
+        var socket = io.connect('//'+window.location.host);
+        socket.on('sug',function(data){
+          console.log(data);
+          $("#tags").autocomplete({
+            source: data
+          });
+        });
+    </script>
 </body>
 </html>

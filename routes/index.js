@@ -1,4 +1,4 @@
-      
+var mongo = require('../modules/mongo');    
 /*
  * GET home page.
  */
@@ -23,5 +23,6 @@ exports.map=function(req,res){
 };
 
 exports.angular=function(req,res){
+
 	res.render('angular');
 }
