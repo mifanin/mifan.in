@@ -26,3 +26,7 @@ exports.angular=function(req,res){
 
 	res.render('angular');
 }
+
+exports.skel=function(req,res){
+	res.render('skel');
+}

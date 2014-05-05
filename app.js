@@ -39,6 +39,7 @@ app.get('/users', user.list);
 app.post('/upload',routes.upload);
 app.get('/map',routes.map);
 app.get('/angular',routes.angular);
+app.get('/skel',routes.skel);
 /*
 var server=http.createServer(app);
 server.listen(80, function(){
