@@ -217,4 +217,5 @@ pip-log.txt
 ##############
 # secure
 ##############
-cert/
+cert/mifan.key
+cert/mifan.crt
